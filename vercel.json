@@ -3,7 +3,7 @@
     "builds": [
         {
             "src": "*.py",
-            "use": "@vercel/now-flask"
+            "use": "@vercel/node"
         }
     ],
     "routes": [
